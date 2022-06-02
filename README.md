@@ -1,3 +1,6 @@
+# DEPRECATED
+Please use the [non-spoof module](https://github.com/Googlers-Magisk-Repo/samsung_a70_overlay) and install spoofing seperratly. Thanks
+
 # A70 Overlay Pixel Props (GSI only)
 This module comes with Pixel props and corrctly generated overlays for the Samsung Galaxy A70
 
