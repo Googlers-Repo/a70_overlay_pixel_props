@@ -7,3 +7,6 @@ description=Spoof your device to RAVEN pixel prop (April 2022) with an generared
 minMagisk=18000
 minApi=31
 maxApi=31
+
+# Googlers Repo Configuartion
+gr_ignore=yes
